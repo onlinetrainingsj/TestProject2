@@ -6,6 +6,8 @@ public class TesGitClass {
 		System.out.println("Hello Git");
 		System.out.println("Hello Command line");
 		System.out.println("Hello Test Git");
+		System.out.println("Hello Test Git2");
+		System.out.println("Hello Test Git3");
 	}
 
 }
